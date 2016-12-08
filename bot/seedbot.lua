@@ -226,6 +226,10 @@ function create_config( )
     "Spam-check",
     "User-management",
     "Values"
+    "Time"
+   "Welcome"
+   "Map"
+   "Google"
     },
     sudo_users = {275579349},--Sudo users
     moderation = {data = 'data/moderation.json'},
